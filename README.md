@@ -30,6 +30,11 @@ Godot
 https://godotengine.org/features
 
 
+### 3D Scene
+
+Blender
+https://www.blender.org/
+
 ### Generative Art
 
 p5.js
