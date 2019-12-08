@@ -2,10 +2,16 @@
 
 ![image](https://user-images.githubusercontent.com/24355719/70390225-6c78b080-1a0c-11ea-81ae-07644b4b716c.png)
 
-## Abstract Concept
+## Abstraction
 
 This is not only a motivation game but also a mirror of your life. Everyone has a goal, even though it is a tiny goal for others, and some one can make an effort for it but others can't for some reasons.
-You should visualize your steps by recoding your daily lives as a sugoroku, to be to achieve something special for yourself.
+You should visualize your steps by recoding your daily lives as a sugoroku, to be able to achieve something special for yourself.
+
+## Why we need
+
+Nowadays, as we humans are improving significantly by technology, there is a dramatically change in comparison with a few dacades ago. Fortunately, the disparity of information is almost equal to zero due to Smartphone and Internet. However, that of motivation is still remain, and the impact for our lives is getting bigger. That means those who have a high motivation tend to be successful in an area, and vice versa. We belives that this game will help those who have been struggling with having a low motivation.
+
+## Functions
 
 ### No texting, no register
 
