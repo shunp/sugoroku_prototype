@@ -35,11 +35,45 @@ https://godotengine.org/features
 p5.js
 https://p5js.org/
 
-Reference
+Rust
 https://github.com/fitzgen/rust-conf-2019
 
 ### Speech recording
 
 Web Speech API
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+
+### PWA
+
+Gatsby.js
+https://www.gatsbyjs.org/
+
+React
+https://reactjs.org/
+
+TypeScript
+https://www.typescriptlang.org/
+
+JAMStack
+https://jamstack.org/
+
+### Server API
+
+Rust
+https://www.rust-lang.org/
+
+Flask
+https://www.fullstackpython.com/flask.html
+
+GraphQL
+https://graphql.org/
+
+
+### Blockchain
+
+Substrate
+https://www.parity.io/substrate/
+
+ink!
+https://substrate.dev/docs/en/ecosystem/contracts/ink
 
