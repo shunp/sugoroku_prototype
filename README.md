@@ -1,5 +1,7 @@
 # sugoroku_prototype
 
+![image](https://user-images.githubusercontent.com/24355719/70390225-6c78b080-1a0c-11ea-81ae-07644b4b716c.png)
+
 ## Abstract Concept
 
 This is not only a motivation game but also a mirror of your life. Everyone has a goal, even though it is a tiny goal for others, and some one can make an effort for it but others can't for some reasons.
