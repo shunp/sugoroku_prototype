@@ -37,6 +37,7 @@ https://godotengine.org/features
 Blender
 https://www.blender.org/
 
+
 ### Generative Art
 
 p5.js
@@ -45,10 +46,12 @@ https://p5js.org/
 Rust
 https://github.com/fitzgen/rust-conf-2019
 
+
 ### Speech recording
 
 Web Speech API
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+
 
 ### PWA
 
@@ -63,6 +66,7 @@ https://www.typescriptlang.org/
 
 JAMStack
 https://jamstack.org/
+
 
 ### Server API
 
@@ -84,3 +88,13 @@ https://www.parity.io/substrate/
 ink!
 https://substrate.dev/docs/en/ecosystem/contracts/ink
 
+
+### Privacy
+
+zk-SNARKS
+https://z.cash/technology/zksnarks/
+
+
+### Machine Learing
+
+Aki will
