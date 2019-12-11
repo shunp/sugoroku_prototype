@@ -30,6 +30,11 @@ You can see a scene if you reach some specific places in this board. The scene i
 
 If you fail to do your record in a day, a credit you have now is declined, and finally, your all assets, including stamps and scenes, are blown away. You won't be able to regain the data, as well as you won't be able to be back your time.
 
+### Multi-Personality
+You can mint some personalities. One might be a learner of Japanese, the other might be a challenger to pass an exam. Your porpose becomes a character, which behaves like a pawn on this board game. Each pawn proceed according to the achivement found by your voice.
+
+![image](https://user-images.githubusercontent.com/24355719/70613617-4c373480-1c4c-11ea-975b-ecb26274bfe0.png)
+
 ## Technology stack
 
 ### Game Engine
@@ -37,6 +42,9 @@ If you fail to do your record in a day, a credit you have now is declined, and f
 Godot
 https://godotengine.org/features
 
+Unity
+Hexagon Map
+[Reference Video](https://www.youtube.com/watch?v=qH7sJfYLdR4)
 
 ### 3D Scene
 
