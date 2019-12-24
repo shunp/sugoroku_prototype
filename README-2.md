@@ -18,6 +18,10 @@ Text -> Picture -> Video -> 3D Movie (Actual Experience) -> Generated Experience
 
 Food -> Money -> Experience -> Story
 
+### What helps your success?
+
+Pedigree -> Money -> Information -> Motivation
+
 ## Introduction
 
 You are living. You have a life. There is only one you can feel and experience as a life. Is it enough? Have you feel any regret that you should have selected another option before? Yes, I have. Here is my imagination that you can play multi-stories on the board where another "you" are living.
