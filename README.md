@@ -39,6 +39,11 @@ You can mint some personalities. One might be a learner of Japanese, the other m
 
 ### Game Engine
 
+We create WebXR module to open it from Web Browser. It is necessary to use WebAssembly to be lighten.
+
+:star: UnrealEngine
+https://www.unrealengine.com/en-US/feed?lang=en-US
+
 Godot
 https://godotengine.org/features
 
@@ -46,13 +51,17 @@ Unity
 Hexagon Map
 [Reference Video](https://www.youtube.com/watch?v=qH7sJfYLdR4)
 
+
+
 ### 3D Scene
 
-Blender
+:star: Blender
 https://www.blender.org/
 
 
 ### Generative Art
+
+To create an original card that is pictured by using processing art.
 
 p5.js
 https://p5js.org/
@@ -71,9 +80,14 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Sp
 
 Gatsby.js
 https://www.gatsbyjs.org/
+https://qiita.com/uehaj/items/1b7f0a86596353587466
 
 React
 https://reactjs.org/
+
+RxJs
+https://rxjs-dev.firebaseapp.com/
+https://qiita.com/agajo/items/7942743a0130f7a0f30b
 
 TypeScript
 https://www.typescriptlang.org/
@@ -102,6 +116,8 @@ https://www.parity.io/substrate/
 ink!
 https://substrate.dev/docs/en/ecosystem/contracts/ink
 
+PolkadotJS
+https://github.com/polkadot-js/api
 
 ### Privacy
 
